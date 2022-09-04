@@ -1,0 +1,130 @@
+body {
+  margin-bottom: 50px;
+  text-align: justify;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.container {
+  display: flex;
+  /* margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px; */
+}
+.name {
+  margin-right: 450px;
+  margin-left: 50px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+
+  font-size: 30px;
+  font-style: initial;
+  color: aliceblue;
+}
+.collapse navbar-collapse {
+  margin-right: 40px;
+}
+.nav-link {
+  /* margin-top: 55px; */
+  margin-left: 25px;
+  margin-right: 50px;
+  margin-bottom: 25px;
+
+  color: aliceblue;
+}
+.about {
+  /* background-color: aliceblue; */
+  padding: 0px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 300px;
+}
+.education {
+  background-color: aliceblue;
+  padding: 0px;
+  margin-top: 50px;
+  height: 800px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-style: solid;
+}
+.contact {
+  background-color: aliceblue;
+  padding: 0px;
+  margin-top: 50px;
+  height: 400px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-style: solid;
+}
+.h3_1 {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 30px;
+  color: #fff5bb;
+}
+.h3_2 {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 25px;
+  color: #6b6b6b;
+}
+.h3_3 {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 25px;
+  color: #6b6b6b;
+}
+.p1 {
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 200px;
+  font-size: 20px;
+  color: #fff5bb;
+}
+/* .img1{
+    float: right;
+    height: 1;
+    width: 1;
+} */
+.edu {
+  padding-left: 60px;
+}
+hr {
+  margin-right: 300px;
+}
+h4 {
+  font-size: 19px;
+}
+.p2 {
+  /* font-size: 10px */
+  padding-left: 30px;
+}
+.con {
+  padding-left: 60px;
+}
+.soc {
+  display: flex;
+  padding-left: 130px;
+  padding-top: 40px;
+}
+.p3 {
+  /* color: #fff5bb; */
+  padding-right: 50px;
+}
+.comm {
+  padding-top: 20px;
+  padding-left: 730px;
+}
+.but {
+  color: #6b6b6b;
+}
+#data {
+  color: aliceblue;
+}
+.com1 {
+  font-size: 20px;
+}
